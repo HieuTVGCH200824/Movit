@@ -1,0 +1,7 @@
+﻿no,origin,destination,distance,price,total,googleOrigin,googleDestination,status,message
+0,"Ha Noi, Viet Nam","Bac Ninh, Viet Nam","42.9 km",10000,429000,"Hanoi, Hoàn Kiếm, Hanoi, Vietnam","Bac Ninh Province, Vietnam",OK,OK
+1,"Ho Chi Minh, Viet Nam","Thanh Hoa, Viet Nam","1,441 km",10000,14410000,"Ho Chi Minh City, Vietnam","Thanh Hóa, Thanh Hoa, Vietnam",OK,OK
+2,"Can Tho, Viet Nam","Thai Nguyen, Viet Nam","1,937 km",10000,19370000,"Can Tho, Ninh Kiều, Cần Thơ, Vietnam","Thái Nguyên, Thai Nguyen, Vietnam",OK,OK
+3,"Da Nang, Viet Nam","Bac Giang, Viet Nam",,10000,0,,,OVER_QUERY_LIMIT,
+4,"Nha Trang, Viet Nam","Nam Dinh, Viet Nam",,10000,0,,,OVER_QUERY_LIMIT,
+5,"Hai Phong, Viet Nam",Cali,,10000,0,"Haiphong, Hai Phong, Vietnam","11230 Sullivan St, Riverview, FL 33578, USA",OK,ZERO_RESULTS

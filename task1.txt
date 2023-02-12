@@ -1,0 +1,39 @@
+php oop
+mvc 
+google map api
+
+Vận tải
+muốn biết khoảng cách 2 địa điểm
+input : user, điểm a ,điểm b, tiền/km - > output user, khoảng cách 2 địa điểm, tiền ship
+-> cho hết ra bảng để hiển thị
+
+1. Đọc tài liệu MVC là gì
+2. Cách Code PHP oop
+3. Đọc về google API
+
+Viết hàm phải có chú thích hàm (comment)
+
+Progress check thứ 2 hàng tuần
+
+
+Input--
+Origin:
+Destination
+Vnd/km
+
+
+STT|diemBatDau|diemToi|khoangCach|vnd/km|Gia tien (total)
+ 
+C1: nhập từng điểm bằng input
+C2: Nhập bằng excel(upload từ trong máy) -> submit tính tất cả các điểm (khoang cach, gia tien)
+
+xuất file excel
+
+string template cho api call
+
++file cho developer
+
+cả 2 file đều cần origin và address, status ,err message
+ do google trả về
+
+
